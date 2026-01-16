@@ -189,10 +189,5 @@ This project was created to practice:
 
 It is **not intended for production use**.
 
----
 
-## 📜 License
-
-This project is released for **educational purposes only**.
-You are free to study, modify, and extend it.
 
